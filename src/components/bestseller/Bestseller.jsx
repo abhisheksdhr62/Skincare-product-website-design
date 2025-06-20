@@ -56,7 +56,7 @@ export default function BestSeller() {
         </h2>
 
         {/* Product Cards */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mt-10">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mt-10 ">
           {products.map((product) => (
               <div
               key={product.id}
@@ -73,7 +73,7 @@ export default function BestSeller() {
                   <p className="text-xs text-gray-500">{product.price}</p>
                 </div>
                 <button className="p-2 rounded-full hover:bg-gray-300 transition">
-                  <image src={cart} size={18} />
+                  <img src={cart} size={18}/>
                 </button>
               </div>
             </div>
