@@ -42,7 +42,7 @@ A modern, responsive skincare website built with **React**, **Tailwind CSS**, an
 git clone https://github.com/yourusername/skincare-react-ui.git
 cd skincare-react-ui
 
-## 📁 Folder Structure
+ 📁 Folder Structure
 Skincare-product-website-design/
 ├── public/
 │ ├── products/
@@ -61,20 +61,20 @@ Skincare-product-website-design/
 │ └── App.jsx
 ├── README.md
 └── package.json
-## 🛠️ Getting Started
+ 🛠️ Getting Started
 
-### 2. Install dependencies
+ 2. Install dependencies
 
 ```bash
 npm install
 
-## 🎯 Customization Notes
+🎯 Customization Notes
 
 - 📸 Place your product images inside `/public/products/`
 - 🖼️ Hero section image goes in `/public/hero/`
 - ✅ You can update the product or FAQ list from inside the respective component files (`src/components/`)
 
-## 🧪 Future Enhancements (Optional)
+ 🧪 Future Enhancements (Optional)
 
 - [ ] Add backend integration for dynamic product data
 - [ ] Add a contact form with form validation
@@ -83,13 +83,13 @@ npm install
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
-## 👨‍💻 Developed by
+ 👨‍💻 Developed by
 
 **Abhishek Ranjan**  
 🔗 [GitHub Profile](https://github.com/abhisheksdhr62)
