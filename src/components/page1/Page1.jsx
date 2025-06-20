@@ -40,7 +40,7 @@ const GlowHeader = () => {
         opacity: 0.1,
         scale: 1,
         duration: 1.5,
-        ease: "power3.out",
+        ease: "power2.out",
         scrollTrigger: {
           trigger: textRef.current,
           start: "top 80%", // when the top of element hits 80% of viewport
@@ -111,9 +111,6 @@ const GlowHeader = () => {
               While giving you an invigorating cleansing experience
             </span>
             </div>
-            {/* <span className="text-green-700 w-30">
-              While giving you an invigorating cleansing experience
-            </span> */}
           </div>
         </div>
 
