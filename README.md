@@ -41,3 +41,92 @@ A modern, responsive skincare website built with **React**, **Tailwind CSS**, an
 ```bash
 git clone https://github.com/yourusername/skincare-react-ui.git
 cd skincare-react-ui
+Skincare-product-website-design/
+├── public/
+│ ├── products/
+│ │ ├── alya.png
+│ │ ├── sakura.png
+│ │ └── body-lotion.png
+│ └── hero/
+│ └── beauty-product.jpg
+├── src/
+│ ├── components/
+│ │ ├── HeroGsap.jsx
+│ │ ├── FilteredProductSection.jsx
+│ │ ├── FaqSection.jsx
+│ │ ├── SkincareScrollText.jsx
+│ │ └── SkincareIntroText.jsx
+│ └── App.jsx
+├── README.md
+└── package.json
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/abhisheksdhr62/Skincare-product-website-design.git
+cd Skincare-product-website-design
+
+# 🌿 Skincare Product Website
+
+A modern, responsive skincare landing page built using **React**, **Tailwind CSS**, and **GSAP**. This site includes animated hero sections, product filters, scroll-based effects, and an interactive FAQ.
+
+---
+
+## 📁 Folder Structure
+Skincare-product-website-design/
+├── public/
+│ ├── products/
+│ │ ├── alya.png
+│ │ ├── sakura.png
+│ │ └── body-lotion.png
+│ └── hero/
+│ └── beauty-product.jpg
+├── src/
+│ ├── components/
+│ │ ├── HeroGsap.jsx
+│ │ ├── FilteredProductSection.jsx
+│ │ ├── FaqSection.jsx
+│ │ ├── SkincareScrollText.jsx
+│ │ └── SkincareIntroText.jsx
+│ └── App.jsx
+├── README.md
+└── package.json
+## 🛠️ Getting Started
+
+### 2. Install dependencies
+
+```bash
+npm install
+
+## 🎯 Customization Notes
+
+- 📸 Place your product images inside `/public/products/`
+- 🖼️ Hero section image goes in `/public/hero/`
+- ✅ You can update the product or FAQ list from inside the respective component files (`src/components/`)
+
+## 🧪 Future Enhancements (Optional)
+
+- [ ] Add backend integration for dynamic product data
+- [ ] Add a contact form with form validation
+- [ ] Animate individual letters in headings
+- [ ] Add unit tests for UI behavior
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## 👨‍💻 Developed by
+
+**Abhishek Ranjan**  
+🔗 [GitHub Profile](https://github.com/abhisheksdhr62)
