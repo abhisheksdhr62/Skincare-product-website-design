@@ -85,6 +85,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/skincare-react-ui.git
+git clone https://github.com/abhisheksdhr62/skincare-react-ui.git
 cd skincare-react-ui
 
